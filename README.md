@@ -84,4 +84,8 @@ epoch:	195	nll:	9.430949
 epoch:	199	nll:	9.425596
 ```
 
+## Malware saved model
+Trained malware detector is available in this folder
+
+
 Note: this code is based on the https://github.com/LantaoYu/SeqGAN and https://github.com/ofirnachum/sequence_gan. Thanks to LantaoYu and ofirnachum.
